@@ -1,4 +1,4 @@
-import logo from "../assets/icons/logo_transparent.png";
+import logo from "../assets/icons/logo trans.png";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Container";
@@ -10,9 +10,7 @@ const Navigation = () => {
         <Navbar.Brand href="#home">
           <img
             src={logo}
-            max-width="200"
-            max-height="80"
-            width="150"
+            width="180"
             height="50"
             className="d-inline-block align-top"
             alt="logo of the academic nest"
