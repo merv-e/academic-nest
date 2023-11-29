@@ -1,10 +1,10 @@
 import './App.css';
+import Navigation from './components/Navigation';
 
 function App() {
   return (
     <div className="App">
-      <h1>Test!</h1>
-      <button className='btn btn-primary'>Click</button>
+      <Navigation/>
     </div>
   );
 }
