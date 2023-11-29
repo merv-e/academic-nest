@@ -5,7 +5,7 @@ import Container from "react-bootstrap/Container";
 
 const Navigation = () => {
   return (
-    <Navbar expand="lg" className="bg-light "> {/* d-flex p-2 justify-content-between */}
+    <Navbar expand="lg" className="bg-light ">
       <Container fluid>
         <Navbar.Brand href="#home">
           <img
