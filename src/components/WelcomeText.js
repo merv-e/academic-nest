@@ -8,8 +8,9 @@ const WelcomeText = () => {
         alt="Orientation"
         width="fit-content"
         height="300px"
+        className="img-fluid custom-image"
       />
-      <h3>
+      <h3 className="pt-5">
         Unlock a World of Learning Opportunities, Where Online and On-Campus
         Education Converge.
       </h3>

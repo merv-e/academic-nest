@@ -2,7 +2,7 @@ import library from "../assets/others/library.jpg";
 
 const Hero = () => {
   return (
-    <section className="container-fluid mt-4 hero-container p-6" id="hero">
+    <section className="container-fluid mt-4 hero-container pb-5" id="hero">
       <div className="row p-2">
         <div className="col-md-6 order-md-1 order-1 position-relative">
           <img
@@ -16,11 +16,10 @@ const Hero = () => {
           </div>
         </div>
 
-        <div className="col-md-6 order-md-2 order-2 d-flex align-items-center">
+        <div className="col-md-6 order-md-2 order-2 d-flex justify-content-between align-items-center">
           <div className="hero-content">
             <h3 className="mb-3 text-center">
-              Welcome to Academic Nest – Where
-              Knowledge Takes Flight!
+              Welcome to Academic Nest – Where Knowledge Takes Flight!
             </h3>
             <p className="mb-3">
               At AcademicNest.net, we believe in the power of education to

@@ -1,6 +1,7 @@
 import Hero from './components/Hero';
 import Navigation from './components/Navigation';
 import NewsAndOrientation from './components/NewsAndOrientation';
+import OnlineClasses from './components/OnlineClasses';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Navigation/>
       <Hero />
       <NewsAndOrientation />
+      <OnlineClasses />
     </div>
   );
 }
