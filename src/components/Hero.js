@@ -31,7 +31,9 @@ const Hero = () => {
               together!
             </p>
             <div className="d-flex justify-content-center p-2 gap-4">
-              <button className="btn btn-secondary">Explore Programs</button>
+              <button className="btn btn-secondary">
+                <a href="#online">Explore Programs</a>
+              </button>
               <button className="btn btn-secondary">Join the Community</button>
             </div>
           </div>

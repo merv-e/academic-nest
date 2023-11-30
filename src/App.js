@@ -1,3 +1,4 @@
+import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Navigation from './components/Navigation';
 import NewsAndOrientation from './components/NewsAndOrientation';
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <NewsAndOrientation />
       <OnlineClasses />
+      <Footer />
     </div>
   );
 }
