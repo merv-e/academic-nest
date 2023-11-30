@@ -5,7 +5,7 @@ import Container from "react-bootstrap/Container";
 
 const Navigation = () => {
   return (
-    <Navbar expand="lg" className="bg-light ">
+    <Navbar expand="lg" className="bg-secondary">
       <Container fluid>
         <Navbar.Brand href="#home">
           <img

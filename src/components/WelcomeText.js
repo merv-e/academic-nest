@@ -2,7 +2,7 @@ import welcomeImage from "../assets/others/students-at-the-campus.jpg";
 
 const WelcomeText = () => {
   return (
-    <div className="col-md-6 order-md-1 order-1">
+    <div className="col-md-6">
       <img
         src={welcomeImage}
         alt="Orientation"

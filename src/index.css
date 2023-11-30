@@ -1,6 +1,4 @@
-body {
-  padding: 0 30px;
-}
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
@@ -44,4 +42,16 @@ a {
   text-align: center;
   color: #e6dbdb;
   text-shadow: 2px 2px 4px #222020b3; 
+}
+
+.info-card-img {
+  
+}
+
+@media only screen and (max-width: 750px) {
+  .info-card-img {
+    width : 100%;
+    height:auto;
+  }
+
 }

@@ -1,18 +1,20 @@
-import Footer from './components/Footer';
-import Hero from './components/Hero';
-import Navigation from './components/Navigation';
-import NewsAndOrientation from './components/NewsAndOrientation';
-import OnlineClasses from './components/OnlineClasses';
+import Footer from "./components/Footer";
+import Hero from "./components/Hero";
+import Navigation from "./components/Navigation";
+import NewsAndOrientation from "./components/NewsAndOrientation";
+import OnlineClasses from "./components/OnlineClasses";
 
 function App() {
   return (
-    <div className="App">
-      <Navigation/>
-      <Hero />
-      <NewsAndOrientation />
-      <OnlineClasses />
-      <Footer />
-    </div>
+    <>
+      <Navigation />
+      <main className="p-2 p-md-5">
+        <Hero />
+        <NewsAndOrientation />
+        <OnlineClasses />
+        <Footer />
+      </main>
+    </>
   );
 }
 
