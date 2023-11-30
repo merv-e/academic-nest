@@ -1,6 +1,6 @@
 const InfoCard = ({ image, title, date, description }) => {
   return (
-    <div className="info-card-img">
+    <div className="d-flex flex-column flex-lg-row gap-3 pr-3 gap-lg-4">
       <img
         src={image}
         alt={title}

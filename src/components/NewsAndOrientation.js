@@ -7,9 +7,9 @@ import orientation from "../assets/others/orientation.jpg"
 const NewsAndOrientation = () => {
   return (
     <section className="container-fluid mt-4 pb-5" id="on-campus">
-      <div className="row p-2 d-flex flex-wrap">
+      <div className="row p-2 ">
         <WelcomeText />
-        <div className="col-md-6 d-grid gap-4">
+        <div className="col-md-6 d-grid gap-4 pt-4 pt-md-0">
           <InfoCard
             image={orientation}
             title="Orientation Dates"

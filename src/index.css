@@ -14,10 +14,6 @@ a {
 
 }
 
-.hero-container {
-  padding: 32px 24px;
-}
-
 .hero-content {
   width: 100%;
   max-width: 600px;
@@ -44,14 +40,15 @@ a {
   text-shadow: 2px 2px 4px #222020b3; 
 }
 
-.info-card-img {
-  
-}
-
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 768px) {
   .info-card-img {
     width : 100%;
     height:auto;
   }
+}
 
+@media only screen and (max-width: 578px) {
+  #hero h1, #hero h2 {
+    visibility: hidden;
+  }
 }

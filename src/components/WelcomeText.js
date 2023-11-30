@@ -10,7 +10,7 @@ const WelcomeText = () => {
         height="300px"
         className="img-fluid custom-image"
       />
-      <h3 className="pt-5">
+      <h3 className="pt-4">
         Unlock a World of Learning Opportunities, Where Online and On-Campus
         Education Converge.
       </h3>

@@ -2,9 +2,9 @@ import library from "../assets/others/library.jpg";
 
 const Hero = () => {
   return (
-    <section className="container-fluid mt-4 hero-container pb-5" id="hero">
-      <div className="row p-2">
-        <div className="col-md-6 order-md-1 order-1 position-relative">
+    <section className="container-fluid mt-4 pb-5" id="hero">
+      <div className="row p-2 ">
+        <div className="col-lg-6 position-relative">
           <img
             src={library}
             alt="Welcome to the website"
@@ -16,11 +16,11 @@ const Hero = () => {
           </div>
         </div>
 
-        <div className="col-md-6 order-md-2 order-2 d-flex justify-content-between align-items-center">
+        <div className="col-lg-6 d-flex justify-content-between align-items-center pt-4 pt-lg-0">
           <div className="hero-content">
-            <h3 className="mb-3 text-center">
+            {/* <h3 className="mb-3 text-center">
               Welcome to Academic Nest – Where Knowledge Takes Flight!
-            </h3>
+            </h3> */}
             <p className="mb-3">
               At AcademicNest.net, we believe in the power of education to
               transform lives. Whether you prefer the flexibility of online
@@ -32,7 +32,9 @@ const Hero = () => {
             </p>
             <div className="d-flex justify-content-center p-2 gap-4">
               <button className="btn btn-secondary">
-                <a href="#online">Explore Programs</a>
+                Explore Programs
+                {/* <a href="#online">
+                </a> */}
               </button>
               <button className="btn btn-secondary">Join the Community</button>
             </div>
