@@ -1,5 +1,5 @@
 body {
-  padding: 0 20px;
+  padding: 0 30px;
 }
 
 code {
@@ -9,6 +9,11 @@ code {
 
 * {
   box-sizing: border-box;
+}
+
+a {
+  text-decoration:none;
+
 }
 
 .hero-container {
