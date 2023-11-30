@@ -2,8 +2,8 @@ import computer_science from "./assets/online-classes/computer-science.jpg";
 import history_of_art from "./assets/online-classes/history-of-art.jpg";
 import literature from "./assets/online-classes/literature.jpg";
 import mathematics from "./assets/online-classes/mathematics.jpg";
-import intro_to_psychology from "./assets/online-classes/mathematics.jpg";
-import phyton from "./assets/online-classes/mathematics.jpg";
+import intro_to_psychology from "./assets/online-classes/psychology.png";
+import phyton from "./assets/online-classes/phyton.jpg";
 
 const classesData = [
   {
