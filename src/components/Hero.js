@@ -2,7 +2,7 @@ import library from "../assets/others/library.jpg";
 
 const Hero = () => {
   return (
-    <section className="container-fluid mt-4 pb-5" id="hero">
+    <section className="container-fluid mt-5 pb-5 pt-5" id="hero">
       <div className="row p-2 ">
         <div className="col-lg-6 position-relative">
           <img
