@@ -31,12 +31,12 @@ const Hero = () => {
               together!
             </p>
             <div className="d-flex justify-content-center p-2 gap-4">
-              <button className="btn btn-secondary">
+              <button className="btn btn-primary">
                 Explore Programs
                 {/* <a href="#online">
                 </a> */}
               </button>
-              <button className="btn btn-secondary">Join the Community</button>
+              <button className="btn btn-primary">Join the Community</button>
             </div>
           </div>
         </div>

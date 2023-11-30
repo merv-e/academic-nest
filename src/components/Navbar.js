@@ -3,7 +3,7 @@ import logo from "../assets/icons/logo trans.png";
 
 const NavLinks = ({ text, link }) => (
   <li className="nav-item">
-    <a className="nav-link fs-5" href={`#${link}`}>
+    <a className="nav-link fs-5 text-light" href={`#${link}`}>
       {text}
     </a>
   </li>
@@ -13,7 +13,7 @@ const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
     <nav
-      className="navbar navbar-expand-lg navbar-dark bg-secondary position-fixed w-100"
+      className="navbar navbar-expand-lg navbar-dark nav-color position-fixed w-100"
       style={{ zIndex: 1000 }}
     >
       <div className="container-fluid">

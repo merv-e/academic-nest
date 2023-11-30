@@ -24,7 +24,7 @@ const OnlineClasses = () => {
               <div className="card-body">
                 <h5 className="card-title">{item.title}</h5>
                 <p className="card-text">{item.description}</p>
-                <a href="#enroll" className="btn btn-secondary">
+                <a href="#enroll" className="btn btn-primary">
                   Enroll Now
                 </a>
               </div>
@@ -34,7 +34,7 @@ const OnlineClasses = () => {
       </div>
       <div className="text-center mt-4">
         <p>Couldn't find what you're looking for? Discover more options.</p>
-        <button className="btn btn-secondary">Discover More</button>
+        <button className="btn btn-primary">Discover More</button>
       </div>
     </section>
   );

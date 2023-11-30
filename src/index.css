@@ -50,3 +50,7 @@ a {
     visibility: hidden;
   }
 }
+
+.nav-color {
+  background-color: rgb(38, 95, 156);
+}
