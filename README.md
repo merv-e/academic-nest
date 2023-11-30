@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Welcome to Academic Nest
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This web application simulates a college website, offering students the choice between online and on-campus education. The project primarily focuses on creating an intuitive and visually appealing website layout. If you can't find links to classes, don't worry—it's intentional! 🙂
 
-## Available Scripts
+## Tech Stack
+- **React.js**
+- **Bootstrap 5**
 
-In the project directory, you can run:
+<!-- Screenshots -->
+## Screenshots
 
-### `npm start`
+### Desktop View
+![Desktop Screenshot](./screenshots/desktop.jpg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Mobile View
+![Mobile Screenshot](./screenshots/mobile.jpg)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Acknowledgments
+- The icon and logo for this website were created using [Hatchful](https://www.shopify.com/tools/logo-maker/).
+- Special thanks to [ChatGPT](https://chat.openai.com) for generating dummy text.
 
-### `npm test`
+### Image Credits
+- [Mind and Brain Illustration](https://pixabay.com/illustrations/mind-brain-mindset-perception-544404/)
+- [Mathematics Background](https://pixabay.com/photos/math-work-mathematics-formulas-4711302/)
+- [Art History Image](https://www.freepik.com/free-photo/blooming-floral-arts-crafts-nature_17129319.htm#query=art%20history%20online%20course&position=38&from_view=keyword&track=ais&uuid=e5a7afda-eca9-4a34-b788-8271f7ac7e1e)
+- [Programming Background](https://www.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_38669459.htm#query=computer%20science&position=0&from_view=search&track=ais&uuid=87af6c86-5451-4100-a5d7-e414a9d7e3c4)
+- [Students Studying Outdoors](https://www.freepik.com/free-photo/group-students-with-books-tablet-are-studying-outdoors-together-sitting-grass_2583681.htm#query=colleges%20orientation&position=2&from_view=keyword&track=ais&uuid=54550f0d-801e-490a-9153-b62aae296916)
+- [Educating in Library](https://www.freepik.com/free-photo/boy-girl-educating-library_1363443.htm#query=student%20services&position=1&from_view=keyword&track=ais&uuid=dd8b966f-bfa1-4c94-9c82-d16f2768b500)
+- [College Mates Studying Together](https://www.freepik.com/free-photo/college-mates-studying-together_16294771.htm#query=studying%20together&position=4&from_view=search&track=ais&uuid=1594d951-5495-41d9-b23b-2c397066a4a3)
+- [Aerial Photography of Building](https://unsplash.com/photos/aerial-photography-green-and-white-concrete-building-kfwPJieZVwI)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contributing
 
-### `npm run build`
+You are interested in this project? Feel free to explore and contribute! If you have any suggestions or feedback, please let me know. 🚀
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How to Install and Launch the Project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### To Install the Project
+```bash
+gh repo clone merv-e/academic-nest
+cd academic-nest
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### To launch the project
+`npm start`
