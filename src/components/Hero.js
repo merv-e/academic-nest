@@ -18,9 +18,9 @@ const Hero = () => {
 
         <div className="col-lg-6 d-flex justify-content-between align-items-center pt-4 pt-lg-0">
           <div className="hero-content">
-            {/* <h3 className="mb-3 text-center">
-              Welcome to Academic Nest – Where Knowledge Takes Flight!
-            </h3> */}
+            <h3 className="mb-3 text-center">
+              Embark on Your Educational Odyssey with Academic Nest
+            </h3>
             <p className="mb-3">
               At AcademicNest.net, we believe in the power of education to
               transform lives. Whether you prefer the flexibility of online

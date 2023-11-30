@@ -7,6 +7,7 @@ import orientation from "../assets/others/orientation.jpg"
 const NewsAndOrientation = () => {
   return (
     <section className="container-fluid mt-4 pb-5" id="on-campus">
+    <h2 className="py-4 px-1">Orientation and News</h2>
       <div className="row p-2 ">
         <WelcomeText />
         <div className="col-md-6 d-grid gap-4 pt-4 pt-md-0">

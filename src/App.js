@@ -12,8 +12,8 @@ function App() {
         <Hero />
         <NewsAndOrientation />
         <OnlineClasses />
-        <Footer />
       </main>
+        <Footer />
     </>
   );
 }
