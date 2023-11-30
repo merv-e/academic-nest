@@ -40,9 +40,6 @@ You are interested in this project? Feel free to explore and contribute! If you 
 gh repo clone merv-e/academic-nest
 cd academic-nest
 npm install
-
-
-
-
-#### To launch the project
+```
+### To launch the project
 `npm start`
