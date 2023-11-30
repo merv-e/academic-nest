@@ -29,9 +29,9 @@ const classesData = [
   },
   {
     id: 4,
-    title: "English Literature",
+    title: "Spanish Literature",
     description:
-      "Immerse yourself in the world of literature, exploring classic and contemporary works that shape the English literary landscape.",
+      "Immerse yourself in the world of literature, exploring classic and contemporary works that shape the Spanish literary landscape.",
     image: literature,
   },
   {
