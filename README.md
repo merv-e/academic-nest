@@ -2,7 +2,7 @@
 
 This web application simulates a college website, offering students the choice between online and on-campus education. The project primarily focuses on creating an intuitive and visually appealing website layout. If you can't find links to classes, don't worry—it's intentional! 🙂
 
-Check it out the [website] on Netlify: (https://academic-nest.netlify.app/)
+Explore the live version of Academic Nest on [Netlify](https://academic-nest.netlify.app/).
 
 ## Tech Stack
 - **React.js**
